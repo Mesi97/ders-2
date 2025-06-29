@@ -1,3 +1,2 @@
-<?php
-echo"mənim adım Mənsurədir"
+<?php"2-ci add;m"
 ?>
